@@ -3,6 +3,9 @@
 
 > Open this page at [https://bigfatgreat.github.io/spaceshooter/](https://bigfatgreat.github.io/spaceshooter/)
 
+## Controls
+WASD for the pink plane while IJKL for the yellow plane
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
